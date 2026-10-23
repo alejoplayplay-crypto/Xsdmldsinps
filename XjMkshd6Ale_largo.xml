@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="EPG Peliculas">
+  <channel id="pelicula-lamillaverde">
+    <display-name lang="es">La milla verde ⭐7,9 (1999)</display-name>
+  </channel>
+  <programme start="20261022000000 -0300" stop="20301023000000 -0300" channel="pelicula-lamillaverde">
+    <title lang="es">La milla verde ⭐7,9 (1999) | País: 🇺🇸 Estados Unidos | Género: Fantasía, Drama, Crimen, Historia | Dirección: Frank Darabont | Elenco: Tom Hanks, Michael Clarke Duncan, David Morse, Bonnie Hunt, James Cromwell | Sinopsis: En 1935, Paul Edgecomb trabaja como guardia en el corredor de la muerte. Su vida cambia al conocer a John Coffey, un enorme prisionero condenado por el asesinato de dos niñas, que posee un extraordinario poder para sanar a las personas.</title>
+    <desc lang="es">País: Estados Unidos
+Género: Fantasía, Drama, Crimen, Historia
+
+Sinopsis: En el sur de los Estados Unidos, en plena Depresión, Paul Edgecomb es un vigilante penitenciario a cargo de la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla eléctrica. Esperando su ejecución está John Coffey, un gigantesco hombre acusado de asesinar brutalmente a dos hermanas de nueve años. Tras una personalidad ingenua, Coffey esconde un don sobrenatural prodigioso. A medida que transcurre la historia, Paul Edgecomb aprende que los milagros ocurren incluso en los lugares más insospechados.
+
+Dirección: Frank Darabont
+Elenco: Tom Hanks, Michael Clarke Duncan, David Morse, Bonnie Hunt y James Cromwell.</desc>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Historia</category>
+    <date>1999</date>
+    <country>Estados Unidos</country>
+  </programme>
+</tv>
