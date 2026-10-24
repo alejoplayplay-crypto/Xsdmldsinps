@@ -1586,7 +1586,7 @@
   <channel id="etdr">
     <display-name lang="es">etdr</display-name>
   </channel>
-  <programme start="20261024111300 -0300" stop="20261024131600 -0300" channel="etdr">
+  <programme start="20261024111300 -0300" stop="20261024131700 -0300" channel="etdr">
     <title lang="es">Una aventura extraordinaria</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1598,7 +1598,7 @@
     <title lang="es">La propuesta</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261024164900 -0300" stop="20261024185500 -0300" channel="etdr">
+  <programme start="20261024164900 -0300" stop="20261024185400 -0300" channel="etdr">
     <title lang="es">El planeta de los simios: Confrontación</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1609,6 +1609,12 @@
   <programme start="20261024204200 -0300" stop="20261024222100 -0300" channel="etdr">
     <title lang="es">Corre, gordo, corre</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
+  </programme>
+  <programme start="20261024222100 -0300" stop="20261024235900 -0300" channel="etdr">
+    <title lang="es">Elementos</title>
+  </programme>
+  <programme start="20261024235900 -0300" stop="20261025030800 -0300" channel="etdr">
+    <title lang="es">La lista de Schindler</title>
   </programme>
   <programme start="20261025030800 -0300" stop="20261025055800 -0300" channel="etdr">
     <title lang="es">Gladiador</title>
@@ -1626,7 +1632,7 @@
     <title lang="es">La última pelea</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261025121400 -0300" stop="20261025140000 -0300" channel="etdr">
+  <programme start="20261025121400 -0300" stop="20261025135900 -0300" channel="etdr">
     <title lang="es">El joven manos de tijera</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1638,7 +1644,7 @@
     <title lang="es">Ace Ventura: Detective de mascotas</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261025172300 -0300" stop="20261025192400 -0300" channel="etdr">
+  <programme start="20261025172300 -0300" stop="20261025193400 -0300" channel="etdr">
     <title lang="es">Fantasmas del pasado</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1646,11 +1652,11 @@
     <title lang="es">Interestelar</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261025222300 -0300" stop="20261026001900 -0300" channel="etdr">
+  <programme start="20261025222300 -0300" stop="20261025235900 -0300" channel="etdr">
     <title lang="es">Rocky IV</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261025235900 -0300" stop="20261026022900 -0300" channel="etdr">
+  <programme start="20261025235900 -0300" stop="20261026013800 -0300" channel="etdr">
     <title lang="es">Gladiador II: El desafío comienza</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1658,7 +1664,7 @@
     <title lang="es">No todo es lo que parece</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261026032800 -0300" stop="20261026055800 -0300" channel="etdr">
+  <programme start="20261026032800 -0300" stop="20261026055900 -0300" channel="etdr">
     <title lang="es">El último samurái</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1666,15 +1672,15 @@
     <title lang="es">Hechizo de amor</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261026074400 -0300" stop="20261026093400 -0300" channel="etdr">
+  <programme start="20261026074400 -0300" stop="20261026094000 -0300" channel="etdr">
     <title lang="es">La gran estafa</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261026094000 -0300" stop="20261026111200 -0300" channel="etdr">
+  <programme start="20261026094000 -0300" stop="20261026111100 -0300" channel="etdr">
     <title lang="es">George de la selva</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261026111100 -0300" stop="20261026125800 -0300" channel="etdr">
+  <programme start="20261026111100 -0300" stop="20261026125700 -0300" channel="etdr">
     <title lang="es">Whiplash: Música y obsesión</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1698,7 +1704,7 @@
     <title lang="es">Enseñanza de vida</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261026215600 -0300" stop="20261026235600 -0300" channel="etdr">
+  <programme start="20261026215600 -0300" stop="20261026235900 -0300" channel="etdr">
     <title lang="es">Agua para elefantes</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1714,7 +1720,7 @@
     <title lang="es">La forma del agua</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261027055900 -0300" stop="20261027081800 -0300" channel="etdr">
+  <programme start="20261027055900 -0300" stop="20261027081900 -0300" channel="etdr">
     <title lang="es">Kingsman: El círculo dorado</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1730,11 +1736,11 @@
     <title lang="es">Everest</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261027140600 -0300" stop="20261027161500 -0300" channel="etdr">
+  <programme start="20261027140600 -0300" stop="20261027161400 -0300" channel="etdr">
     <title lang="es">El embajador del miedo</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261027161400 -0300" stop="20261027182200 -0300" channel="etdr">
+  <programme start="20261027161400 -0300" stop="20261027182300 -0300" channel="etdr">
     <title lang="es">Los federales</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1742,7 +1748,7 @@
     <title lang="es">Amor ciego</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261027201300 -0300" stop="20261027215800 -0300" channel="etdr">
+  <programme start="20261027201300 -0300" stop="20261027215700 -0300" channel="etdr">
     <title lang="es">Tras líneas enemigas</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1750,7 +1756,7 @@
     <title lang="es">La suerte de los Logan</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261027235900 -0300" stop="20261028012900 -0300" channel="etdr">
+  <programme start="20261027235900 -0300" stop="20261028013000 -0300" channel="etdr">
     <title lang="es">El día del juicio final</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1758,15 +1764,15 @@
     <title lang="es">Diamante de sangre</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261028035400 -0300" stop="20261028060000 -0300" channel="etdr">
+  <programme start="20261028035400 -0300" stop="20261028055900 -0300" channel="etdr">
     <title lang="es">Culpable en la mafia</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261028055900 -0300" stop="20261028075700 -0300" channel="etdr">
+  <programme start="20261028055900 -0300" stop="20261028075800 -0300" channel="etdr">
     <title lang="es">Cocodrilo</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261028075800 -0300" stop="20261028095900 -0300" channel="etdr">
+  <programme start="20261028075800 -0300" stop="20261028100900 -0300" channel="etdr">
     <title lang="es">Fantasmas del pasado</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1774,11 +1780,11 @@
     <title lang="es">Nueve reinas</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261028120300 -0300" stop="20261028135500 -0300" channel="etdr">
+  <programme start="20261028120300 -0300" stop="20261028135600 -0300" channel="etdr">
     <title lang="es">Defending Your Life</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261028135600 -0300" stop="20261028160200 -0300" channel="etdr">
+  <programme start="20261028135600 -0300" stop="20261028160100 -0300" channel="etdr">
     <title lang="es">Sonido de libertad</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1790,11 +1796,11 @@
     <title lang="es">Tras líneas enemigas</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261028193500 -0300" stop="20261028214600 -0300" channel="etdr">
+  <programme start="20261028193500 -0300" stop="20261028215200 -0300" channel="etdr">
     <title lang="es">La edad de la inocencia</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261028215200 -0300" stop="20261028235900 -0300" channel="etdr">
+  <programme start="20261028215200 -0300" stop="20261029014700 -0300" channel="etdr">
     <title lang="es">El gran pez</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1814,11 +1820,11 @@
     <title lang="es">Gerónimo: Una leyenda</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261029093600 -0300" stop="20261029111100 -0300" channel="etdr">
+  <programme start="20261029093600 -0300" stop="20261029111300 -0300" channel="etdr">
     <title lang="es">Austin Powers 2: El espía seductor</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261029111300 -0300" stop="20261029130200 -0300" channel="etdr">
+  <programme start="20261029111300 -0300" stop="20261029132100 -0300" channel="etdr">
     <title lang="es">Top Gun: Maverick</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1842,11 +1848,11 @@
     <title lang="es">Creed III</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261029215700 -0300" stop="20261030000000 -0300" channel="etdr">
+  <programme start="20261029215700 -0300" stop="20261029235900 -0300" channel="etdr">
     <title lang="es">La teoría del todo</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261029235900 -0300" stop="20261030013600 -0300" channel="etdr">
+  <programme start="20261029235900 -0300" stop="20261030013700 -0300" channel="etdr">
     <title lang="es">El cazador</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1858,7 +1864,7 @@
     <title lang="es">Frankenstein de Mary Shelley</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261030055800 -0300" stop="20261030073900 -0300" channel="etdr">
+  <programme start="20261030055800 -0300" stop="20261030073100 -0300" channel="etdr">
     <title lang="es">Bleach: Fade to Black, Llama tu nombre</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
@@ -1874,11 +1880,11 @@
     <title lang="es">África mía</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261030152400 -0300" stop="20261030171600 -0300" channel="etdr">
+  <programme start="20261030152400 -0300" stop="20261030171400 -0300" channel="etdr">
     <title lang="es">El Rey de la Comedia</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
-  <programme start="20261030171400 -0300" stop="20261030191200 -0300" channel="etdr">
+  <programme start="20261030171400 -0300" stop="20261030192700 -0300" channel="etdr">
     <title lang="es">Golpes del destino</title>
     <desc lang="es">Horario transcrito de la guia visual. Duracion aproximada; comprobar contra la guia original.</desc>
   </programme>
